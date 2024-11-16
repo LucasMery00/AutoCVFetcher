@@ -12,8 +12,7 @@ import json
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # URL de la page principale des offres d'emploi
-search_url1 = "https://candidat.francetravail.fr/offres/recherche/emploirecherche/121077332"
-search_url = "https://candidat.francetravail.fr/offres/recherche?dureeHebdo=1,0&lieux=11R&motsCles=Charg%C3%A9+%2F+Charg%C3%A9e+d%27%C3%A9tudes+socio-%C3%A9conomiques&offresPartenaires=true&range=0-19&rayon=10&tri=0&typeContrat=CDI,CDD,MIS,DIN"
+search_url = "https://candidat.francetravail.fr/offres/recherche"
 
 # Accès à la page
 driver.get(search_url)
