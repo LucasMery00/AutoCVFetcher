@@ -12,7 +12,7 @@ import json
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # URL de la page principale des offres d'emploi
-search_url = "https://www.apec.fr/candidat/recherche-emploi.html/emploi?typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&lieux=75&motsCles=statistique&page=0"
+search_url = "https://www.apec.fr/candidat/recherche-emploi"
 
 # Accès à la page
 driver.get(search_url)
