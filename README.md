@@ -14,7 +14,7 @@ Les CV et lettres sont créés à partir de modèles personnalisés en LaTeX (Co
 
 ---
 
-## **fichiers python du projet**  
+## **Fichiers python du projet**  
 Voici les fichiers python utilisées et leur fonction :  
 
 | **Fichiers**             | **Description**                                                                                                                    |  
