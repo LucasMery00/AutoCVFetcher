@@ -9,7 +9,7 @@ Les CV et lettres sont créés à partir de modèles personnalisés en LaTeX (Co
 - Génération automatisée de CV et lettre basés sur des modèles.  
 - Organisation par numérotation des fichiers téléchargés.  
 - Prévention des doublons dans les téléchargements.  
-- Personnalisation des éléments clés des CV et des lettre : titre, contenu, etc...  
+- Personnalisation des éléments clés des CV et des lettres : titre, contenu, etc...  
 - Intégration avec des outils externes tels que LaTeX ou les sites de l'APEC et de l'ANPE  (via scraping/API).  
 
 ---
