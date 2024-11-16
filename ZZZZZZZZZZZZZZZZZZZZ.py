@@ -14,10 +14,7 @@ resultats = []
 prompt_template = """
 Mon profil :
 Je suis jeune diplomé d'un Master en mathématiques appliquées et statistiques, je cherche un emploi dans
-la data ou les statistiques (data analyst/scientist, chargé d'étude...), j'ai effectué un stage au 
-Groupement d’intérêt scientifique sur les cancers d’origine professionnelle dans le vaucluse et un autre
-au Laboratoire des sciences du climat et de l’environnement dans lesquels j'ai gagné en experiences.
-J'ai acquis au cours de mon parcours des compétences solides en R, SQL, et Python ainsi qu’en modélisation
+la data ou les statistiques (data analyst/scientist, chargé d'étude...), j'ai effectué un stage ....... indiqué la suite du parcours........
 statistique et machine learning.
 Mes qualités sont :
 + Capacité à analyser un problème et à établir une méthodologie pour le résoudre
