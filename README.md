@@ -107,7 +107,7 @@ output/OpenAI/
 Créé par **Lucas Mery**.  
 
 Contributions, suggestions et retours sont les bienvenus ! 😊  
-Contact : [email@example.com](mailto:email@example.com)  
+Contact : [lucas.mery30@outlook.fr](mailto:lucas.mery30@outlook.fr)  
 
 ---
 
