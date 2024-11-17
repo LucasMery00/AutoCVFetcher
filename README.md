@@ -15,7 +15,7 @@ Les CV et lettres sont créés à partir de modèles personnalisés en LaTeX (Co
 ---
 
 ## **Fichiers python du projet**  
-Voici les fichiers python utilisées et leur fonction :  
+Voici les fichiers python (a utiliser dans cette ordre) et leur fonction :  
 
 | **Fichiers**             | **Description**                                                                                                                    |  
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------|  
@@ -31,10 +31,11 @@ Voici les fichiers python utilisées et leur fonction :
 
 ## **Installation**  
 ### **Pré-requis**  
-- Python 3.8+  
-- Git (facultatif si téléchargement manuel)  
-- LaTeX (si utilisation de modèles .tex)  
-- Bibliothèques Python (voir *requirements.txt*)  
+- Python 3.12.7+  
+- Git (facultatif si téléchargement manuel)
+- Compilateur : LaTeX/pdfLaTeX (les package sont à installer pour LuaLaTeX et XeLaTeX) (si utilisation de modèles .tex)  
+- Bibliothèques Python : json, subprocess, re, os, selenium, ... et plein d'autre ... (je vais bientôt rédiger un requirement.txt)
+- Ghostscript pour la compression des fichiers
 
 ### **Étapes d'installation**  
 1. **Cloner le projet**  
